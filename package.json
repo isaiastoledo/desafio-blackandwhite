@@ -1,0 +1,19 @@
+{
+  "name": "desafioblackandwhite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test especified\" && exit 1",
+    "dev": "node --watch index.js"
+  },
+  "keywords": [],
+  "author": "isaias toledo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "jimp": "^0.22.12",
+    "uuid": "^9.0.1"
+  }
+}
